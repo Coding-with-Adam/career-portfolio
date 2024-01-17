@@ -1,6 +1,6 @@
 # import micropip
 # await micropip.install('dash-mantine-components')
-# await.micropip.install('dash-iconify')
+# await micropip.install('dash-iconify')
 import dash_mantine_components as dmc
 from dash import Dash, html, dcc
 from dash_iconify import DashIconify
