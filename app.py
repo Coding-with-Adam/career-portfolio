@@ -1,3 +1,4 @@
+# These first 3 lines of code are needed when running the app in https://wasmdash.vercel.app/
 # import micropip
 # await micropip.install('dash-mantine-components')
 # await micropip.install('dash-iconify')
